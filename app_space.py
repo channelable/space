@@ -7,7 +7,7 @@ with open("astro_model.pkl", "rb") as f:
     model = pickle.load(f)
 
 # ---- Load the scaler ----
-with open("scaler.pkl", "rb") as f:
+with open("scaler (1).pkl", "rb") as f:
     scaler = pickle.load(f)
 
 # ---- App Title ----
